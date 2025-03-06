@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @JainamKariya
-- 👀 I’m interested in Fullstack
-- 🌱 I’m currently learning Backend
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me - email
+- 👀 I’m interested in AIML
+- 🌱 I’m currently learning ML
+- 📫 How to reach me - jainamkariya@gmail.com
 
 <!---
 JainamKariya/JainamKariya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
